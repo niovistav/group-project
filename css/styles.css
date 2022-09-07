@@ -1,0 +1,12 @@
+.carousel-item {
+  height: 500px;
+}
+
+.intro-section {
+  height: 100vh;
+}
+
+.carousel-img {
+  object-fit: cover;
+  height: 100%;
+}
