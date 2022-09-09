@@ -20,3 +20,46 @@ h1,
 pre {
   text-align: center;
 }
+
+.contact-us {
+  text-align: left;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.about-page {
+  background-color: black;
+}
+
+.about-color {
+  color: white;
+}
+
+.text {
+  font-size: 15px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+.images {
+  display: flex;
+  justify-content: space-around;
+}
+
+.item-img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  object-fit: cover;
+  margin-top: 30px;
+}
+
+.names {
+  color: white;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.size {
+  font-size: 50px;
+}
